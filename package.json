@@ -1,0 +1,19 @@
+{
+  "name": "node-websockets",
+  "version": "1.0.0",
+  "description": "following a shiffman's tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VzqzAc/Node-websockets.git"
+  },
+  "author": "Omar Vazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VzqzAc/Node-websockets/issues"
+  },
+  "homepage": "https://github.com/VzqzAc/Node-websockets#readme"
+}
