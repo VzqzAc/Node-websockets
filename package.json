@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/VzqzAc/Node-websockets#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5",
+    "window-size": "^0.2.0"
   }
 }
